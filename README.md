@@ -18,8 +18,6 @@
    <a href="https://www.linkedin.com/in/louise-heide-%C3%A5kerman-0954421a5/">linkedin</a>
    ~ </samp><br><br>
    
-   <!-- GIF taken from: https://dribbble.com/shots/5591476-Jellyfish -->
-   <img src="https://user-images.githubusercontent.com/27065646/169688356-c990bd12-a460-40d6-ac94-52b21f3c19fa.gif">
 </p>
 </p>
 <p align="right"><strong><samp>」</samp></strong></p>
