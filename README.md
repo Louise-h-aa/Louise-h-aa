@@ -1,6 +1,6 @@
 <!-- Inspiration: https://github.com/owl4ce -->
 
-<p align="left"><strong><samp>「</samp></strong></p>
+
 <p align="center">
    <samp><br>
    Hey there, I'm Louise!
@@ -20,4 +20,4 @@
    
 </p>
 </p>
-<p align="right"><strong><samp>」</samp></strong></p>
+
