@@ -13,7 +13,7 @@
 <p align="center"><samp> ~
    <a href="https://www.reddit.com/user/LaLocaLu">reddit</a>
    ·
-   <a href="https://twitter.com/louihaa">twitter</a>
+   <a href="https://twitter.com/louihaa">X</a>
    ·
    <a href="https://www.linkedin.com/in/louise-heide-%C3%A5kerman-0954421a5/">linkedin</a>
    ~ </samp><br><br>
